@@ -1,6 +1,6 @@
 @echo off
 title FNF Setup - Start
-echo Make sure Haxe 4.1.5 and HaxeFlixel is installed (4.1.5 is important)!
+echo Make sure Haxe 4.1.5 or 4.2.3 and HaxeFlixel is installed (4.2.0 is broken)!
 echo Press any key to install required libraries.
 pause >nul
 title FNF Setup - Installing libraries
